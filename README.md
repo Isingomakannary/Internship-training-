@@ -1,4 +1,5 @@
 # A collaborative space for networking interns
+## Routing, Switching, Security, VoIP using Cicso Products
 This GitHub repository is designed to provide comprehensive resources and materials for computer networking students
 undergoing industrial training. It serves as a centralized platform for students to access the networking labs, and relevant documentation to enhance their networking skills and knowledge.
 
@@ -6,4 +7,4 @@ undergoing industrial training. It serves as a centralized platform for students
 
 1. [LAB 001 - Cabling & IP subnetting](https://github.com/JoramGranger/TRAINING/blob/main/LAB-001)
 2. [LAB 002 - Basic Configuration & IP Allocation(Manual & Automated)]()
-3. [LAB 003 - Cabling & IP subnetting]()
+
