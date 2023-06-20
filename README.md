@@ -5,6 +5,6 @@ undergoing industrial training. It serves as a centralized platform for students
 
 ## Table of Contents
 
-1. [LAB 001 - Cabling & IP subnetting](https://github.com/JoramGranger/TRAINING/blob/main/LAB-001.md)
+1. [LAB 001 - Cabling, IP subnetting & Simulation](https://github.com/JoramGranger/TRAINING/blob/main/LAB-001.md)
 2. [LAB 002 - Basic Configuration & IP Address Allocation(Manual & Automated)](https://github.com/JoramGranger/TRAINING/blob/main/LAB-002.md)
 
